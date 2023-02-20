@@ -3,4 +3,22 @@
   <groupId>Largestnumber</groupId>
   <artifactId>Largestnumber</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.2.1</version>
+</dependency>
+<dependency>
+    <groupId>io.github.bonigarcia</groupId>
+    <artifactId>webdrivermanager</artifactId>
+    <version>5.2.1</version>
+</dependency>
+<dependency>
+    <groupId>ru.yandex.qatools.ashot</groupId>
+    <artifactId>ashot</artifactId>
+    <version>1.5.4</version>
+    </dependency>
+    </dependencies>
 </project>
